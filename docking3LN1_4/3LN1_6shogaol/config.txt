@@ -1,0 +1,14 @@
+receptor = 3LN1.pdbqt
+ligand = shogaol.pbdqt
+
+out = out.pdbqt
+
+center_x = 30.449
+center_y = -22.029
+center_z = -17.898
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+exhaustiveness = 30

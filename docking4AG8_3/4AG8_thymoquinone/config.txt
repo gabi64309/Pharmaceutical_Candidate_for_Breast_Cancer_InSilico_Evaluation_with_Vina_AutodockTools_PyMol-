@@ -1,0 +1,14 @@
+receptor = 4AG8.pdbqt
+ligand = thymoquinone.pbdqt
+
+out = out.pdbqt
+
+center_x = 20.136
+center_y = 23.888
+center_z = 36.013
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+exhaustiveness = 30
